@@ -1,0 +1,1 @@
+export { default } from "file:///Users/huangjunwei/Desktop/figma-export/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
